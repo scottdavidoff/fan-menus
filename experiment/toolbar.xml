@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<Toolbar>
+    <menu name="File">
+        <menuitems>
+            <menuitem>New</menuitem>
+            <menuitem>Open</menuitem>
+            <menuitem>Save</menuitem>
+            <menuitem>Save as...</menuitem>
+            <menuitem>Close</menuitem>
+        </menuitems>
+    </menu>
+
+    <menu name="Edit">
+        <menuitems>
+            <menuitem>Undo</menuitem>
+            <menuitem>Redo</menuitem>
+            <menuitem>Cut</menuitem>
+            <menuitem>Copy</menuitem>
+            <menuitem>Paste</menuitem>
+        </menuitems>
+    </menu>
+
+    <menu name="View">
+        <menuitems>
+            <menuitem>Normal</menuitem>
+            <menuitem>Page Layout</menuitem>
+            <menuitem name="Toolbars">
+            
+                <submenuitem>Standard</submenuitem>
+                <submenuitem>Formatting</submenuitem>
+                <submenuitem>Auto Text</submenuitem>
+                <submenuitem>Database</submenuitem>
+                <submenuitem>Drawing</submenuitem>
+
+            </menuitem>
+            <menuitem>Header and Footer</menuitem>
+            <menuitem>Zoom</menuitem>
+        </menuitems>
+    </menu>
+
+    <menu name="Insert">
+        <menuitems>
+            <menuitem>Break</menuitem>
+            <menuitem>Symbol</menuitem>
+            <menuitem name="Picture">
+            
+                <submenuitem>Clip Art</submenuitem>
+                <submenuitem>From File</submenuitem>
+                <submenuitem>Horizontal Lines</submenuitem>
+                <submenuitem>Auto Shapes</submenuitem>
+                <submenuitem>Word Art</submenuitem>
+            
+            </menuitem>
+            <menuitem>HTML Object</menuitem>
+            <menuitem>Text Box</menuitem>
+        </menuitems>
+    </menu>
+
+    <menu name="Format">
+        <menuitems>
+            <menuitem>Font</menuitem>
+            <menuitem>Paragraph</menuitem>
+            <menuitem>Document</menuitem>
+            <menuitem>Bullets and Numbers</menuitem>
+            <menuitem>Borders and Shading</menuitem>
+        </menuitems>
+    </menu>
+
+    <menu name="Font">
+        <menuitems>
+            <menuitem>Arial</menuitem>
+            <menuitem>Courier</menuitem>
+            <menuitem>Helvetica</menuitem>
+            <menuitem>Times New Roman</menuitem>
+            <menuitem>Verdana</menuitem>
+        </menuitems>
+    </menu>
+
+    <menu name="Tools">
+        <menuitems>
+            <menuitem>Spelling</menuitem>
+            <menuitem>Grammar</menuitem>
+            <menuitem>Thesaurus</menuitem>
+            <menuitem name="Track Changes">
+            
+                <submenuitem>Highlight Changes</submenuitem>
+                <submenuitem>Accept or Reject Changes</submenuitem>
+                <submenuitem>Compare Documents</submenuitem>
+            
+            </menuitem>
+            <menuitem name="Macros">
+
+                <submenuitem>Macros...</submenuitem>
+                <submenuitem>Record New Macro</submenuitem>
+                <submenuitem>Visual Basic Editor</submenuitem>
+                <submenuitem>REALbasic Editor</submenuitem>
+            
+            </menuitem>
+        </menuitems>
+    </menu>
+
+    <menu name="Table">
+        <menuitems>
+            <menuitem>Draw Table</menuitem>
+            <menuitem name="Insert">
+            
+                <submenuitem>Table</submenuitem>
+                <submenuitem>Columns to the Left</submenuitem>
+                <submenuitem>Columns to the Right</submenuitem>
+                <submenuitem>Rows Above</submenuitem>
+                <submenuitem>Rows Below</submenuitem>
+            
+            </menuitem>
+            <menuitem name="Delete">
+            
+                <submenuitem>Table</submenuitem>
+                <submenuitem>Column</submenuitem>
+                <submenuitem>Row</submenuitem>
+                <submenuitem>Cell...</submenuitem>
+            
+            </menuitem>
+            <menuitem name="Select">
+            
+                <submenuitem>Table</submenuitem>
+                <submenuitem>Column</submenuitem>
+                <submenuitem>Row</submenuitem>
+                <submenuitem>Cell...</submenuitem>
+            
+            </menuitem>
+            <menuitem name="Autofit">
+            
+                <submenuitem>Autofit to Contents</submenuitem>
+                <submenuitem>Autofit to Window</submenuitem>
+                <submenuitem>Fixed Column Width</submenuitem>
+            
+            </menuitem>
+        </menuitems>
+    </menu>
+
+    <menu name="Window">
+        <menuitems>
+            <menuitem>Zoom Window</menuitem>
+            <menuitem>Minimize Window</menuitem>
+            <menuitem>Bring All to Front</menuitem>
+            <menuitem>New Window</menuitem>
+            <menuitem>Arrange All</menuitem>
+        </menuitems>
+    </menu>
+
+    <menu name="Help">
+        <menuitems>
+            <menuitem>Word Help</menuitem>
+            <menuitem>Sample Document</menuitem>
+            <menuitem>Office Assistant</menuitem>
+            <menuitem>Check for Updates</menuitem>
+            <menuitem>Send Feedback</menuitem>
+        </menuitems>
+    </menu>
+
+</Toolbar>
+

@@ -1,0 +1,1 @@
+&action=getUserID&userID=3&finished=1
