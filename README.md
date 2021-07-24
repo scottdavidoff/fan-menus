@@ -1,5 +1,5 @@
-# fan-menus
-experimental UI to improve desktop mouse interaction speed
+# Fan Menus and Telescoping Menus
+Experimental UI to improve desktop mouse interaction speed. You can see [video of these techniques](https://youtu.be/n6wfe6PSlBU)
 
 ## description
 This repo contains Java, Flash and ActionScript source code for a few experiments in desktop menu efficiency. While Pie menus are faster to use than linear menus because the distance to travel is small than linear menus, users have to re-learn the locations of menus items around a circle. The main design driver here was to preserve the time-saving capacity of Pie menus, while maintaining the learnability of the current linear menu.
